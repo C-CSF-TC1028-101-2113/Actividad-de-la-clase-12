@@ -1,5 +1,4 @@
 # Convertidor a centímetros
-**Decisiones - Convierte pies, pulgadas y yardas a centímetros**
 
 Modifica el siguiente código:
 
