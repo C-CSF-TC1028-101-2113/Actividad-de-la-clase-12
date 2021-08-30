@@ -48,3 +48,5 @@ Introduce una opcion: -5
 Introduce la cantidad: 1
 Error
 ```
+Elimina la palabra __pass__ y escribe el código necesario.
+Asegurarte de que la función regrese la palabra correcta.
